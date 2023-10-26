@@ -7,9 +7,9 @@
 
 
 ## About me
-I´m Katharina
+I´m Katharina a developer student from Berlin
 - I´m currently working on becoming a web developer with the help of coding bootcamp europe
-- 
+- very excited to dive into the world of programming
 
 
 <!-- TO DO: add more details about me later -->
