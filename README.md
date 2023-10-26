@@ -8,7 +8,7 @@
 
 ## About me
 I´m Katharina. You might recognize me as a coding [bootcamp europe student] (https://www.coding-bootcamps.eu)
-- I´m currently working on becoming a web developer withe the help of coding bootcamp europe
+- I´m currently working on becoming a web developer with the help of coding bootcamp europe
 ## About me
 
 <!-- TO DO: add more details about me later -->
